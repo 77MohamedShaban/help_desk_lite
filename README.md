@@ -71,7 +71,7 @@ lib/
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/help_desk_lite.git
+   git clone https://github.com/77MohamedShaban/help_desk_lite.git
    cd help_desk_lite
    ```
 
@@ -90,13 +90,6 @@ lib/
    Generate the DI and Model files:
    ```bash
    flutter pub run build_runner build --delete-conflicting-outputs
-   ```
-
-5. **Icons & Splash (Optional):**
-   If you have added your assets:
-   ```bash
-   flutter pub run flutter_launcher_icons
-   flutter pub run flutter_native_splash:create
    ```
 
 6. **Run the app:**
