@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671341198392",
+    "project_id": "help-desk-lite-e73f2",
+    "storage_bucket": "help-desk-lite-e73f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671341198392:android:3daae98a465e790dfebacd",
+        "android_client_info": {
+          "package_name": "com.example.help_desk_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4Q39fDxgZPd_YmDr-toTNyBpN_jW4Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
