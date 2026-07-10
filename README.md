@@ -7,26 +7,44 @@ and managers to manage and resolve them efficiently.
 ---
 
 ## 📸 Screenshots
-
 <div align="center">
-   <table style="width:100%">
+    <table style="width:100%">
     <tr>
       <td>
-        <img width="200" alt="splash_screen" src="https://github.com/user-attachments/assets/ab300372-32dc-4534-8e8e-243f51674d32" />
+         <img width="200" alt="Screenshot_20260711_010208" src="https://github.com/user-attachments/assets/adb7ac9b-2345-4d76-b249-918677e2944c" />
       </td>
        <td>
- <img width="200" alt="onBoarding_1" src="https://github.com/user-attachments/assets/53797330-7e60-4814-ad64-03a190a6a21b" />
+         <img width="200" alt="Screenshot_20260711_010254" src="https://github.com/user-attachments/assets/23e2d990-3de2-43d7-ae57-f2ccf37e1f79" />
+      </td>
+        <td>
+<img width="200" alt="Screenshot_20260711_010242" src="https://github.com/user-attachments/assets/5f3140fa-c94c-45b1-9301-02ecd820d57f" />
       </td>
        <td>
-     <img width="200" alt="onBoarding_2" src="https://github.com/user-attachments/assets/2533dd5e-0f9c-4075-a05d-13e283550f2b" />
+         <img width="200"  alt="Screenshot_20260711_005614" src="https://github.com/user-attachments/assets/e1354399-c9fb-4fe3-8b33-ff706a1ff9c1" />
       </td>
+      <td>
+<img width="200" alt="Agint" src="https://github.com/user-attachments/assets/3f87b30d-62e1-4a2b-a540-2c1e82f04516" />
+      </td>
+       </tr>
+  </table>
+   <table style="width:100%">
+    <tr>
+          <td>
+<img width="200" alt="Agint_2" src="https://github.com/user-attachments/assets/e2c3e717-f1dc-4c80-bf0a-cd5f6ebe571c" />
+      </td>  
        <td>
-<img width="200"  alt="onBoarding_3" src="https://github.com/user-attachments/assets/375436b3-8f37-4837-9276-7abadf5ec103" />
-      </td>
+<img width="200" alt="Screenshot_20260711_005405" src="https://github.com/user-attachments/assets/c8ddd84a-4af1-4905-8df9-a0d92d091b08" /> 
+      </td>   
        <td>
- <img width="200" alt="onBoarding_4" src="https://github.com/user-attachments/assets/283c10e5-9d15-416e-9725-c9414f67e5bd" />
+<img width="200"  alt="Screenshot_20260711_005629" src="https://github.com/user-attachments/assets/05149ff4-e3c2-4a19-92c4-97dfe4cb42a0" />
+      </td> 
+       <td>
+<img width="200" alt="Screenshot_20260711_005652" src="https://github.com/user-attachments/assets/7129cdce-28ae-4566-b6dd-b5d2eef7d505" />
+      </td>  
+       <td>
+<img width="200" alt="Screenshot_20260711_005800" src="https://github.com/user-attachments/assets/874c9728-177b-48d2-9e70-688a1904c7ab" /> 
       </td>
-    </tr>
+       </tr>
   </table>
 </div>
 ## 🚀 Features
